@@ -1,2 +1,2 @@
-# uma-Coursera_HTML-CSS-Javascript-master
-uma-Coursera_HTML-CSS-Javascript-master
+# gj-Coursera_HTML-CSS-Javascript
+gj-Coursera_HTML-CSS-Javascript
